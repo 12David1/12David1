@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Perry</h1>
+![images](https://github.com/user-attachments/assets/33d4b165-deb5-4d77-8105-944a8f931817)
+
 <h3 align="center">💻 Aspiring IT Professional | 🎓 Student at Belgium Campus | 🌍 Based in Gauteng, South Africa</h3>
 
 ---
