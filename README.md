@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and dedicated IT student at **Belgium Campus**, currently pursuing a **Diploma in Information Technology** (2025 - 2027). My interests include databases, web design, and practical applications of Microsoft tools like Access and Excel. I’m always eager to grow, learn, and apply new technologies to real-world problems.
+I'm a passionate and dedicated IT student at **Belgium Campus**, currently pursuing a **Education in Information Technology** (2025 - 2027). My interests include databases, web design, and practical applications of Microsoft tools like Access and Excel. I’m always eager to grow, learn, and apply new technologies to real-world problems.
 
 ---
 
