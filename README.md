@@ -19,6 +19,7 @@ I'm a passionate and dedicated IT student at **Belgium Campus**, currently pursu
 - 🔄 Git & GitHub
 - 🧠 Problem Solving
 - 👥 Collaboration
+![images](https://github.com/user-attachments/assets/0f9d0b55-a4ea-4fc6-aa9f-ed168b008b5f)
 
 ---
 
