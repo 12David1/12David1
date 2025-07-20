@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm David Perry</h1>
-<h3 align="center">💻 Aspiring IT Professional | 🎓 Student at Belgium Campus | 🌍 Based in Gauteng, South Africa</h3>
+<h1 align="center">System.Console.Write("Hello World, I'm David Perry");</h1>
+<h3 align="center">💻 Aspiring Software developer | 🎓 Student at Belgium Campus | 🌍 Based in Gauteng, South Africa</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate and dedicated IT student at **Belgium Campus**, currently pursuing a **Education in Information Technology** (2025 - 2027). My interests include databases, web design, and practical applications of Microsoft tools like Access and Excel. I’m always eager to grow, learn, and apply new technologies to real-world problems.
+I'm a passionate and dedicated IT student at **Belgium Campus**, currently pursuing a **Education in Information Technology** (2025 - 2027). My interests include databases, web design, and practical applications of Microsoft tools like Access and Excel. I’m always eager to grow, learn, and apply new technologies to real-world problems i code daily and try to improve my education with side projects like https://coddy.tech/profile.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a passionate and dedicated IT student at **Belgium Campus**, currently pursu
 - 💾 **Databases**
 - 🎨 **Web Design**
 - 🧰 **Microsoft Access**
-- 🌐 HTML, CSS (learning)
+- 🌐 HTML, CSS,C#(learning);Javascript(Learning);
 - 🗂️ SQL Basics
 - 🔄 Git & GitHub
 - 🧠 Problem Solving
