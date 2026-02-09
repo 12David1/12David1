@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate and dedicated IT student at **Belgium Campus**, currently pursuing a **Diploma in Information Technology (2025 – 2027)**.  
-I enjoy databases, web design, and building practical projects while learning C# and JavaScript.
+I'm a passionate IT student at **Belgium Campus**, studying towards a **Diploma in Information Technology (2025–2027)**.  
+I enjoy databases, web development, and building small projects while improving my C# and JavaScript skills.
 
 ---
 
@@ -25,17 +25,15 @@ I enjoy databases, web design, and building practical projects while learning C#
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=12David1&show_icons=true&theme=tokyonight&count_private=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=12David1&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=12David1&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=12David1&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12David1&theme=tokyonight" />
 </p>
 
 ---
@@ -43,6 +41,13 @@ I enjoy databases, web design, and building practical projects while learning C#
 ## 📫 Connect With Me
 
 - 📧 Email: david0.5perry@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/david-perry-26314936a  
+- 🐙 GitHub: https://github.com/12David1  
+
+---
+
+> 🚀 I believe in continuous learning and turning small improvements into big achievements.
+
 - 💼 LinkedIn: https://www.linkedin.com/in/david-perry-26314936a  
 - 🐙 GitHub: https://github.com/12David1  
 
