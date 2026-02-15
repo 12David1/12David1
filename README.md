@@ -20,7 +20,8 @@ I enjoy learning by doing — building small projects, practicing daily, and imp
 ## 🧠 Technical Skills
 
 **Languages & Web**
-- HTML & CSS  
+- HTML & CSS
+- Delphi
 - C# *(learning)*  
 - JavaScript *(learning)*  
 
