@@ -71,7 +71,6 @@ I enjoy learning by doing — building small projects, practicing daily, and imp
 ## 📫 Connect With Me
 
 - 📧 Email: **david0.5perry@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/david-perry-26314936a  
 - 🐙 GitHub: https://github.com/12David1  
 
 ---
